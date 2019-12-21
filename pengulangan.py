@@ -33,3 +33,7 @@ for item in list :
 # 1
 # ...
 # 9
+# 1 s/d 6
+# 1, 2, 3, 4, 5, 6
+# 21
+# https://github.com/feetbo90/belajarPython
